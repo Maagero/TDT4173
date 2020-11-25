@@ -26,3 +26,7 @@ Contains the SVM metod implementation using Scikit learns method for Support Vec
 ### requirements.txt
 Contain the required python packages for this project
 
+%% Data
+
+The data is available here:
+https://www.kaggle.com/puneet6060/intel-image-classification
